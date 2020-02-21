@@ -1,0 +1,9 @@
+com\crm\qa\base\Test_base.class
+com\crm\qa\pages\Sign_up.class
+com\crm\qa\pages\Task_Page.class
+com\crm\qa\util\TestUtil.class
+com\crm\qa\pages\Deals_Page.class
+com\crm\qa\pages\Login_Page.class
+com\crm\qa\pages\Home_Page.class
+com\crm\qa\pages\Contact_Page.class
+com\crm\qa\report\ExtentReporterNG.class
